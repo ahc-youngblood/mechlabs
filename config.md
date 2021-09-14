@@ -14,7 +14,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "AHC Mechanics Labs"
 website_descr = "Example website using Franklin"
-website_url   = "https://ahc-youngblood.github.io/mechanics-labs/mechlabs/"
+website_url   = "https://ahc-youngblood.github.io/mechlabs/"
 +++
 
 @def prepath = "mechlabs"
