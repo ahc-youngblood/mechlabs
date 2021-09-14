@@ -30,4 +30,8 @@ The close-up below shows how the thread can be kept straight as mentioned in the
 
 ## Method 3
 
-* Instead of keeping the board flat and using a pulley, it is probably easier to use a setup more like Method 1. However, you will have to be sure to keep the angle as stable as possible while filming.
+* Instead of keeping the board flat and using a pulley, it is probably easier to use a setup more like Method 1. However, you will have to be sure to keep the angle as stable as possible while filming.\\
+
+The tracking application will probably not work on mobile devices, so you will probably need to upload your video (or use a webcam) and use a laptop for analysis.\\
+
+[Online Version of Motion Tracking software](tracker.physlets.org/trackerJS/)
