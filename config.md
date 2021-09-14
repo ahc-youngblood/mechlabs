@@ -4,7 +4,6 @@ Add here global page variables to use throughout your website.
 +++
 author = "Brian Youngblood"
 mintoclevel = 2
-prepath = "mechlabs"
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
 # you might not want. Indicate directories by ending the name with a `/`.
@@ -17,6 +16,8 @@ website_title = "AHC Mechanics Labs"
 website_descr = "Example website using Franklin"
 website_url   = "https://ahc-youngblood.github.io/mechanics-labs/mechlabs/"
 +++
+
+@def prepath = "mechlabs"
 
 <!--
 Add here global latex commands to use throughout your pages.
