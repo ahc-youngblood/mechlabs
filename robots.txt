@@ -1,4 +1,4 @@
-Sitemap: https://ahc-youngblood.github.io/mechanics-labs/mechlabs/sitemap.xml
+Sitemap: https://ahc-youngblood.github.io/mechlabs/sitemap.xml
 
 User-agent: *
 Disallow:
