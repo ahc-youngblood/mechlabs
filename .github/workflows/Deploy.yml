@@ -12,6 +12,10 @@ jobs:
       uses: actions/checkout@v2
       with:
         persist-credentials: false
+    - name: SSH Client
+      uses: webfactory/ssh-agent@v0.2.0
+      with:
+	ssh-private-key: ${{ secrets.DEPLOY_KEY }}
     # NOTE: Python is necessary for the pre-rendering (minification) step
     - name: Install python
       uses: actions/setup-python@v2
@@ -40,6 +44,7 @@ jobs:
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SSH: true
+        # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
         FOLDER: __site
