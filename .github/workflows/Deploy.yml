@@ -15,7 +15,7 @@ jobs:
     - name: Install SSH Client
       uses: webfactory/ssh-agent@v0.2.0
       with:
-	ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+        ssh-private-key: ${{ secrets.DEPLOY_KEY }}
     # NOTE: Python is necessary for the pre-rendering (minification) step
     - name: Install python
       uses: actions/setup-python@v2
