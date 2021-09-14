@@ -34,4 +34,4 @@ The close-up below shows how the thread can be kept straight as mentioned in the
 
 The tracking application will probably not work on mobile devices, so you will probably need to upload your video (or use a webcam) and use a laptop for analysis.\\
 
-[Online Version of Motion Tracking software](tracker.physlets.org/trackerJS/)
+[Online Version of Motion Tracking software](https://tracker.physlets.org/trackerJS/)
