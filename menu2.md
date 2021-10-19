@@ -22,6 +22,9 @@ Ruler\\
 ### Instruction 1.
 * The masses from my kit are: hollow cylinder (11.4 g), solid sphere (66.7 g), solid cylinder (10.8 g). If you have them available, you should use the values from your kit because they will more closely match the motion you record.
 
+### Instruction 3.
+* You may find it difficult to do 3b. until later this week, but ask me about it now if you like.
+
 ### Instruction 4.
 * To keep the ball bearing rolling straight, you will probably have to use the aluminum track. Make sure to place this track on the wooden board to keep it stable and avoid bending/damaging it..
 * The hollow cylinder may be especially difficult to track in your video (see below), think about what point would be best to select or if you can use a different camera angle.
