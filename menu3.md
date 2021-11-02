@@ -174,7 +174,9 @@ Autotracker probably only works for the rolling part of the motion.
 
 8. Does the method of starting the cylinder spinning seem to affect which tilt angle is a better choice? Collaborate with your group if you do not have data on both methods of starting.
 
-9. Is kinetic energy conserved across the transition from spinning to rolling? Find the change in kinetic energy. Find a theoretical expression for this change and compare.
+9. Is angular momentum equally well conserved for both the solid and hollow cylinders?
+
+10. Is kinetic energy conserved across the transition from spinning to rolling? Find the change in kinetic energy. Find a theoretical expression for this change and compare.
 
 ~~~
 <script>
