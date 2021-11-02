@@ -57,7 +57,7 @@ Try breaking $\hat{e}_z$ into its $\hat{e}_1$ and $\hat{e}_3$ components to rewr
 \collapse{Click to see the answer after you've solved.}{
 
 $$ \hat{e}_z = \sin\theta\hat{e}_1 + \cos\theta\hat{e}_3 $$
-$$ \vec{\omega} = \Omega\sin\theta + \Omega\cos\theta\hat{e}_3 + \dot{\psi}\hat{e}_3 $$
+$$ \vec{\omega} = \Omega\sin\theta\hat{e}_1 + \Omega\cos\theta\hat{e}_3 + \dot{\psi}\hat{e}_3 $$
 }
 
 Now use the expression you got for $\dot{\psi}$ above to get a final form for $\vec{\omega}$
