@@ -100,7 +100,7 @@ So they are not in the same direction.
 
 $\vec{L}$ precesses as in the case of a tilted top or gyroscope, but its magnitude should not be significantly changed. In our case the angular momentum is given by
 
-$$ \vec{L} = I_3\omega\sin\theta\cos\theta\left[\left(\frac{I_1}{I_3} - \frac{\ell}{R}\tan\theta\right)\hat{r}_{xy} + \left(\frac{I_1}{I_3} -\frac{\ell}{R}\right)\hat{e}_z\right] $$
+$$ \vec{L} = I_3\Omega\sin\theta\cos\theta\left[\left(\frac{I_1}{I_3} - \frac{\ell}{R}\tan\theta\right)\hat{r}_{xy} + \left(\frac{I_1}{I_3} -\frac{\ell}{R}\right)\hat{e}_z\right] $$
 
 where $\hat{r}_{xy}$ represents a unit vector in the $x-y$ plane (it is rotatin in this plane at a rate $\Omega$).
 
