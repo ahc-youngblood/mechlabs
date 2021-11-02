@@ -170,7 +170,7 @@ Autotracker probably only works for the rolling part of the motion.
 
 6. It turns out that $\gamma_\omega$ represents the lower stable value of $\theta$ and $\gamma_L$ represents the upper stable value of $\theta$. Do your observations support conservation of angular momentum through the transition from spinning to rolling for either of these stable tilt angles?
 
-7. Justify your answers to 6. with data analysis.
+7. Justify your answers to 6. with data analysis. Remember, to combine or compare different trials, you will have to convert to fractional ($\Delta L/L$) or percent change in angular momentum.
 
 8. Does the method of starting the cylinder spinning seem to affect which tilt angle is a better choice? Collaborate with your group if you do not have data on both methods of starting.
 
