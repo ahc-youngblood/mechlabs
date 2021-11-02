@@ -178,6 +178,8 @@ Autotracker probably only works for the rolling part of the motion.
 
 10. Is kinetic energy conserved across the transition from spinning to rolling? Find the average percent change in kinetic energy. Find a theoretical expression for this change and compare.(Note: as with collisions, you won't be able to compare energy changes directly because it would be difficult to start with the exact same kinetic energy every time. Instead, always make sure to find the *fractional* or percent change in energy.)
 
+For more details on this experiment see ([Jackson et al. 2019](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=2204&context=faculty_publications))
+
 ~~~
 <script>
   var coll = document.getElementsByClassName("collapsible");
