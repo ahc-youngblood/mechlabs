@@ -74,7 +74,7 @@ To get the angular momentum, should we multiply this angular velocity by a momen
 
 $$ \vec{L} = I_1\omega_1\hat{e}_1 + I_3\omega_3\hat{e}_3 $$
 
-We found that $\omega_1$ and $\omega_2$ are the same so
+We found that $\omega_1$ and $\omega_3$ are the same so
 
 $$ \vec{L} = \Omega\sin\theta\left(I_1\hat{e}_1 + \frac{\ell}{R}I_3\hat{e}_3\right) $$
 
