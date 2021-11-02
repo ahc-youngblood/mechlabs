@@ -102,7 +102,7 @@ $\vec{L}$ precesses as in the case of a tilted top or gyroscope, but its magnitu
 
 $$ \vec{L} = I_3\Omega\sin\theta\cos\theta\left[\left(\frac{I_1}{I_3} - \frac{\ell}{R}\tan\theta\right)\hat{r}_{xy} + \left(\frac{I_1}{I_3} -\frac{\ell}{R}\right)\hat{e}_z\right] $$
 
-where $\hat{r}_{xy}$ represents a unit vector in the $x-y$ plane (it is rotatin in this plane at a rate $\Omega$).
+where $\hat{r}_{xy}$ represents a unit vector in the $x-y$ plane (it is rotating in this plane at a rate $\Omega$).
 
 ## Theoretical Questions
 
@@ -176,7 +176,7 @@ Autotracker probably only works for the rolling part of the motion.
 
 9. Is angular momentum equally well conserved for both the solid and hollow cylinders?
 
-10. Is kinetic energy conserved across the transition from spinning to rolling? Find the change in kinetic energy. Find a theoretical expression for this change and compare.
+10. Is kinetic energy conserved across the transition from spinning to rolling? Find the average percent change in kinetic energy. Find a theoretical expression for this change and compare.(Note: as with collisions, you won't be able to compare energy changes directly because it would be difficult to start with the exact same kinetic energy every time. Instead, always make sure to find the *fractional* or percent change in energy.)
 
 ~~~
 <script>
