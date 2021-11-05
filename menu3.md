@@ -170,13 +170,15 @@ Autotracker probably only works for the rolling part of the motion.
 
 6. It turns out that $\gamma_\omega$ represents the lower stable value of $\theta$ and $\gamma_L$ represents the upper stable value of $\theta$. Do your observations support conservation of angular momentum through the transition from spinning to rolling for either of these stable tilt angles?
 
-7. Justify your answers to 6. with data analysis. Remember, to combine or compare different trials, you will have to convert to fractional ($\Delta L/L$) or percent change in angular momentum.
+7. Just before it begins to roll only (as $ \theta \rightarrow \pi/2 $ ), there starts to be a problem with our theoretical expression for $\vec{L}$. What is the problem? What really happens is that  $ \Omega \rightarrow \sqrt{\frac{MgR}{I_3}} $. How does the angular momentum (direction and magnitude) just before pure rolling begins compare to the angular momentum just after. How does your experimental angular momentum compare?
 
-8. Does the method of starting the cylinder spinning seem to affect which tilt angle is a better choice? Collaborate with your group if you do not have data on both methods of starting.
+8. Justify your answers to 6.and 7. with data analysis. Remember, to combine or compare different trials, you will have to convert to fractional ($\Delta L/L$) or percent change in angular momentum.
 
-9. Is angular momentum equally well conserved for both the solid and hollow cylinders?
+9. Does the method of starting the cylinder spinning seem to affect which tilt angle is a better choice? Is $ \theta \approx \pi/2 $ always the best choice? Collaborate with your group if you do not have data on both methods of starting. 
 
-10. Is kinetic energy conserved across the transition from spinning to rolling? Find the average percent change in kinetic energy. Find a theoretical expression for this change and compare.(Note: as with collisions, you won't be able to compare energy changes directly because it would be difficult to start with the exact same kinetic energy every time. Instead, always make sure to find the *fractional* or percent change in energy.)
+10. Is angular momentum equally well conserved for both the solid and hollow cylinders?
+
+11. Is kinetic energy conserved across the transition from spinning to rolling? Find the average percent change in kinetic energy. Find a theoretical expression for this change and compare.(Note: as with collisions, you won't be able to compare energy changes directly because it would be difficult to start with the exact same kinetic energy every time. Instead, always make sure to find the *fractional* or percent change in energy.)
 
 For more details on this experiment see ([Jackson et al. 2019](https://scholar.dickinson.edu/cgi/viewcontent.cgi?article=2204&context=faculty_publications))
 
